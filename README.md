@@ -1,4 +1,4 @@
 # Terraform
 To deploy a terraform template to AWS from Jenkins
 
-my first jenkins deployment from Github
+My first jenkins deployment from Github
