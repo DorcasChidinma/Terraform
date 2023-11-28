@@ -1,2 +1,4 @@
 # Terraform
-updated cba_terraform
+To deploy a terraform template to AWS from Jenkins
+
+my first jenkins deployment from Github
